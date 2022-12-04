@@ -25,3 +25,16 @@ body{
     color:white;
     font-size: 50px;
 }
+input{
+    height: 25px;
+    border: none;
+    margin: 10px;
+}
+button{
+    border: none;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
